@@ -1,4 +1,4 @@
-Add a directory named Contrib/<Your Name> for your contributions.
+Add a directory named Contrib/Your Name for your contributions.
 
 Only provide open source skins.
 
