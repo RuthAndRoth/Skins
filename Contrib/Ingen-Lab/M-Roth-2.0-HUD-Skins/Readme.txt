@@ -23,7 +23,41 @@ Roth/Ruth 2.0 Repositories used over time:
    https://github.com/ingen-lab/Ruth
    https://github.com/RuthAndRoth/Ruth
 
-OpenSim UUIDs (OSGrid):
+OpenSim UUIDs (as used on Roth2 v2 HUD in OSGrid):
+
+1 Head  23e81daa-47cf-463f-8e5f-33919dc38865
+1 Upper 27359afc-7e59-419d-a4f5-dcf360a895e1
+1 Lower 4dd12056-ffe0-4cd7-a4ca-0e17d8a1ff35
+
+2 Head  91894009-5c04-4345-992c-a404ded90ed2
+2 Upper 4d8c3b40-524b-448e-9124-c5dfee34cb84
+2 Lower 1a97e3e6-25ce-4758-b4ae-fe8b07bd278d
+
+3 Head  555f86d1-83be-4a8d-b19a-27445155a113
+3 Upper ab18b6c0-cf0c-44ce-afd2-cfaf8d3778b1
+3 Lower d3978c3d-0456-418c-b955-2022c8bf249c
+
+4 Head  baf28278-66e7-4a7e-a7fe-2219fbd25097
+4 Upper 37825d26-01dd-49e7-b1e9-86ccf5f8600f
+4 Lower ea43f05e-3ec2-4133-b587-4e2621a4e40b
+
+5 Head  caadec0e-2ca7-4efe-b917-9d5ea52fcfbd
+5 Upper a93c3dcf-5dbb-418b-a48a-3a5ce70bb455
+5 Lower 511476d5-916a-4a00-bd2c-5349231b0bd2
+
+6 Head  54e83787-ea9a-4a68-bb6b-1bf857da95f9
+6 Upper 98a7f87a-d199-41db-8d9c-2e0caebb6678
+6 Lower 50b6ae67-1283-48c8-bc72-33969d2d7df8
+
+7 Head  5531a1da-187f-46a7-b526-7653d8ac0264
+7 Upper 202370dc-d545-4b8f-a499-0f0115821908
+7 Lower 47ae9cf6-e81f-4131-b073-b8ef4287a316
+
+8 Head  None
+8 Upper None
+8 Lower None
+
+OpenSim UUIDs (original as used on Roth2 v1 HUD in OSGrid):
 
 1 Head  20f864c5-dd08-4aaa-981a-75c0fe37baa3
 1 Upper 409a659d-d44c-4d26-940a-a0760e78e932
@@ -56,5 +90,3 @@ OpenSim UUIDs (OSGrid):
 8 Head  None
 8 Upper None
 8 Lower None
-
-
