@@ -34,7 +34,7 @@ OpenSim UUIDs (OSGrid):
 2 Lower 9183f52b-9fe7-4ffe-bc9d-80e41357599c
 
 3 Head  33159bff-33d7-42c6-ba12-a6657b09d81e
-3 Upper Upper-615f6752-f346-4f79-a2fb-619fed867ac9
+3 Upper 615f6752-f346-4f79-a2fb-619fed867ac9
 3 Lower d38ff9b7-a021-41b0-a968-b0c9d2f017a4
 
 4 Head  07dc1482-4dad-4711-86a4-69e59980042e
@@ -42,7 +42,7 @@ OpenSim UUIDs (OSGrid):
 4 Lower 259521d1-2468-48f1-82bf-13c08d8c5281
 
 5 Head  af4888d5-42f9-4211-a3c0-d5330c3b0b51
-5 Upper 841fbb5e-61f8-4d51-a3dc-501986c2570a
+5 Upper 1645cc11-4f81-44b3-94a4-5c712c861461
 5 Lower 841fbb5e-61f8-4d51-a3dc-501986c2570a
 
 6 Head  7be48b59-2c76-4079-9cfc-41fa0adf5107
@@ -56,4 +56,5 @@ OpenSim UUIDs (OSGrid):
 8 Head  None
 8 Upper None
 8 Lower None
+
 
