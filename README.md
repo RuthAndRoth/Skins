@@ -2,8 +2,6 @@
 
 Open Source skins for RuthAndRoth and other uses.
 
-* Sylvia by Robin Wood (CC BY-SA 4.0)
-
 ## Licenses
 
 The skins included here are covered by a variety of free and Open Source
@@ -14,8 +12,8 @@ with each skin or group of skins.
 
 ## Contributions
 
-Skins go in Contrib/ in a directory named for the creator. The creator directories should:
+Skins shoukd be placed in a directory named for the creator. The creator directories should:
 
 * include a README file giving credits and references to the source of the skin.
 * include a LICENSE file for the specific license applicable to the skin.
-* include each skin in a directory that includes the skin name and may be prefixed with 'F-' or 'M-' to indicate the gender.
+* include each skin in a sub-directory that includes the skin name and may be prefixed with 'F-' or 'M-' to indicate the gender.
