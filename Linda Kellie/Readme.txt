@@ -6,6 +6,23 @@ Licensing Info
  
 CC0 - https://creativecommons.org/publicdomain/zero/1.0/
 
+                        These skins all started out using just the base of 
+                        the wonderful Eloh Eliot templates. I would like to extend 
+                        my thanks to Ms. Eliot for making them available
+                        I have added layers and layers of 
+                        shading, new body parts, and other modifications 
+                        to these make them original. Download the 
+                        folder. Unzip it. You will find skin templates in the 
+                        folder. Upload the templates to the grid of your choice. 
+                        In your inventory right click the body parts folder and 
+                        choose "create new skin". Wear that skin and go into 
+                        edit appearance. Choose the "skin" tab and apply the 
+                        face, upper and lower body textures and choose "save 
+                        as". Give it a name. Or you can take the textures to 
+                        your graphics program and add even more to them or 
+                        change the tint/color. 
+
+
 To the extent possible under law, Zetamex has waived all copyright and related or neighboring rights to Zadaroo.
 This work is published from: United States.
 
