@@ -28,8 +28,8 @@ OpenSim OSGrid UUIDs
 4x4skin-a47356-lk-female-1              a2f787e0-ce5b-4299-8640-0eaa33745663
 4x4skin-ca7d5a-lk-professional-lady-1b  4c699e5f-3a37-4518-a9aa-940f7c34df03
 
-4x4-nail-tint-cream-e8e3de              765616fd-cd78-4046-85b4-224d7f820af1
-4x4-nail-tint-pink-ece0dc               891ac0fc-d607-4e09-8593-f74bba577088
+4x4-nail-tint-e8e3de-cream              765616fd-cd78-4046-85b4-224d7f820af1
+4x4-nail-tint-ece0dc-pink               891ac0fc-d607-4e09-8593-f74bba577088
 
 Second Life UUIDs (coming soon)
 
@@ -43,5 +43,5 @@ Second Life UUIDs (coming soon)
 4x4skin-a47356-lk-female-1
 4x4skin-ca7d5a-lk-professional-lady-1b
 
-4-nail-tint-cream-e8e3de 
-4x4-nail-tint-pink-ece0dc   
+4-nail-tint-e8e3de-cream
+4x4-nail-tint-ece0dc-pink  
