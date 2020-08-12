@@ -7,8 +7,8 @@ HEX: #a1665e    RGB: (161, 102, 94)    LSL: (0.631, 0.400, 0.369)
 HEX: #503335    RGB: (80, 51, 53)      LSL: (0.314, 0.200, 0.208)
 HEX: #592f2a    RGB: (89, 47, 42)      LSL: (0.349, 0.184, 0.165)
 
-HEX: #a47356    RGB: (164,115,86)      LSL: (0.643, 0.451, 0.337) LK Female 1
-HEX: #ca7d5a    RGB: (205, 125, 90)    LSL: (0.792, 0.490, 0.353) LK Professional Lady 1b
+HEX: #a47356    RGB: (164,115,86)      LSL: (0.643, 0.451, 0.337)   LK Female 1
+HEX: #ca7d5a    RGB: (205, 125, 90)    LSL: (0.792, 0.490, 0.353)   LK Professional Lady 1b
 
 Nail Tint:
 HEX: #e8e3de    RGB: (232, 227, 222)   LSL: (0.910, 0.890, 0.871)   Cream
