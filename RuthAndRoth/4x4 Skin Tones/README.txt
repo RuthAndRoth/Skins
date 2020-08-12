@@ -12,7 +12,7 @@ HEX: #ca7d5a    RGB: (205, 125, 90)    LSL: (0.792, 0.490, 0.353) LK Professiona
 
 Nail Tint:
 HEX: #e8e3de    RGB: (232, 227, 222)   LSL: (0.910, 0.890, 0.871)   Cream
-HEX: #ece0dc    RGB: (236, 224, 220)   LSL: (0.910, 0.890, 0.871)   Pink
+HEX: #ece0dc    RGB: (236, 224, 220)   LSL: (0.925, 0.878, 0.863)   Pink
 
 Please visit https://colorswall.com/ for more information and other color palettes.
 
