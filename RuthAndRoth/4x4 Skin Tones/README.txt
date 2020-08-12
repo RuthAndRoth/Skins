@@ -43,5 +43,5 @@ Second Life UUIDs (coming soon)
 4x4skin-a47356-lk-female-1
 4x4skin-ca7d5a-lk-professional-lady-1b
 
-4-nail-tint-e8e3de-cream
+4x4-nail-tint-e8e3de-cream
 4x4-nail-tint-ece0dc-pink  
