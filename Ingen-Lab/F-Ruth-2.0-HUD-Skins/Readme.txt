@@ -10,7 +10,7 @@ OpenSim locations:
 
 Skin Creators:
    U4U AGPL License (slots 1, 2, 5, 6, 7, 8) 
-   Eloh Eliot Another Skin (c) 2009 MIT License http://eloheliot.blogspot.com/ (slot 4) 
+   Eloh Eliot Another Skin Starlight Medium (c) 2009 MIT License http://eloheliot.blogspot.com/ (slot 4) 
 
 AGPL License
    https://www.gnu.org/licenses/agpl-3.0.en.html
